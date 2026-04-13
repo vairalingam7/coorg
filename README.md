@@ -49,8 +49,7 @@
 
 <div class="container">
 
-    <!-- Your image -->
-    <img src="https://raw.githubusercontent.com/username/repo/main/photo.png" 
+    <img src="Coorg_ Nature, Culture and Adventure.png" 
          alt="">
 
 </div>
